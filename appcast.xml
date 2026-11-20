@@ -3,6 +3,14 @@
     <channel>
         <title>Allison</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Fri, 20 Nov 2026 16:13:01 +1100</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/benjiemalinao87/allison/releases/download/v1.6/Allison.dmg" length="12896426" type="application/octet-stream" sparkle:edSignature="TtE8+UST9cLlL/fZT5gr9Zm5LulWAcwasmg4YRH49Y6u93SgrWsvENFZPnsSN0UYEBWhinrJUkPMSZn6eeuLBA=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Fri, 08 May 2026 13:13:32 +1000</pubDate>
             <sparkle:version>38</sparkle:version>

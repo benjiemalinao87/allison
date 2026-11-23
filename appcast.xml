@@ -3,6 +3,15 @@
     <channel>
         <title>Allison</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Mon, 23 Nov 2026 16:16:04 +1100</pubDate>
+            <description>New Allison icons and better pointer tracking across monitors.</description>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/benjiemalinao87/allison/releases/download/v1.7.2/Allison.dmg" length="12537908" type="application/octet-stream" sparkle:edSignature="hEtqcdvtqkL79odCBj94BaXgAscILJFgwJOaAfV7hkWi578bPZZ14K41nuSwnQy6XzK8Bsd13RZL/c79LvfUAA=="/>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Fri, 20 Nov 2026 17:32:30 +1100</pubDate>
             <sparkle:version>42</sparkle:version>
